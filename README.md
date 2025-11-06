@@ -18,10 +18,12 @@ Hệ thống hỗ trợ các quy trình nghiệp vụ chính của gara — từ
 ⚙️ Chức năng chính
 
 🧾 1. Đặt lịch hẹn trực tuyến
+
 Khách hàng chọn ngày, giờ, nhập thông tin cá nhân và xác nhận.
 Sau khi đặt thành công, hệ thống lưu thông tin lịch hẹn vào CSDL và thông báo thành công.
 
 💰 2. Thống kê dịch vụ / phụ tùng theo doanh thu
+
 Quản lý chọn loại thống kê (dịch vụ hoặc phụ tùng) và khoảng thời gian.
 Hệ thống hiển thị bảng thống kê doanh thu tổng hợp.
 Click vào một dịch vụ/phụ tùng → xem danh sách hóa đơn liên quan → xem chi tiết hóa đơn cụ thể.
